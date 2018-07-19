@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>helper.h</itemPath>
+      <itemPath>insertion_sort_tester.h</itemPath>
+      <itemPath>measurements.h</itemPath>
+      <itemPath>median_of_three_tester.h</itemPath>
+      <itemPath>name_exception.h</itemPath>
+      <itemPath>quicksort_tester.h</itemPath>
+      <itemPath>selection_sort_tester.h</itemPath>
+      <itemPath>sort_project_tester.h</itemPath>
+      <itemPath>sorting.h</itemPath>
+      <itemPath>statistics.h</itemPath>
+      <itemPath>std_sort_tester.h</itemPath>
+      <itemPath>test_factory_interface.h</itemPath>
+      <itemPath>test_manager.h</itemPath>
+      <itemPath>test_math.h</itemPath>
+      <itemPath>test_prop.h</itemPath>
+      <itemPath>tester.h</itemPath>
+      <itemPath>tester_factory.h</itemPath>
+      <itemPath>tester_interface.h</itemPath>
+      <itemPath>timer.h</itemPath>
+      <itemPath>utils.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>helper.cpp</itemPath>
+      <itemPath>insertion_sort_tester.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>measurements.cpp</itemPath>
+      <itemPath>median_of_three_tester.cpp</itemPath>
+      <itemPath>name_exception.cpp</itemPath>
+      <itemPath>quicksort_tester.cpp</itemPath>
+      <itemPath>selection_sort_tester.cpp</itemPath>
+      <itemPath>sort_project_tester.cpp</itemPath>
+      <itemPath>sorting.cpp</itemPath>
+      <itemPath>statistics.cpp</itemPath>
+      <itemPath>std_sort_tester.cpp</itemPath>
+      <itemPath>test_manager.cpp</itemPath>
+      <itemPath>test_math.cpp</itemPath>
+      <itemPath>test_prop.cpp</itemPath>
+      <itemPath>tester.cpp</itemPath>
+      <itemPath>tester_factory.cpp</itemPath>
+      <itemPath>timer.cpp</itemPath>
+      <itemPath>utils.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+          <commandlineTool>g++</commandlineTool>
+        </ccTool>
+      </compileType>
+      <item path="helper.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="helper.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="insertion_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="insertion_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="measurements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="measurements.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="median_of_three_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="median_of_three_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="name_exception.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="name_exception.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="quicksort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="quicksort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="selection_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="selection_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sort_project_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sort_project_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sorting.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sorting.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="statistics.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="statistics.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="std_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="std_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_factory_interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_manager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_manager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_math.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_math.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_prop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_prop.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester_factory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tester_factory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester_interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="timer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="timer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="helper.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="helper.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="insertion_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="insertion_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="measurements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="measurements.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="median_of_three_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="median_of_three_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="name_exception.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="name_exception.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="quicksort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="quicksort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="selection_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="selection_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sort_project_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sort_project_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sorting.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sorting.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="statistics.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="statistics.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="std_sort_tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="std_sort_tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_factory_interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_manager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_manager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_math.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_math.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_prop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="test_prop.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tester.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester_factory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tester_factory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tester_interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="timer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="timer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
